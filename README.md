@@ -6,7 +6,10 @@ Registration - is an example of a Segment identify call - https://segment.com/do
 
 Product Info Request and Trial Request - are examples of Segment track calls - https://segment.com/docs/connections/spec/track/
 
-Each example consists of a form for user input, once the form's button is pressed a function is executed that sends the associated json to Segment.  The json is visible in the segment javascript source debugger tab.
+Each example consists of a form for user input, once the form's button is pressed a function is executed that sends the associated json to Segment.  The json is visible in the Segment debugger.
+
+![image](https://user-images.githubusercontent.com/104518622/197042569-d5f12002-c0d0-478f-a94c-7653af1a3b7b.png)
+
 
 
 Wiring it up:
