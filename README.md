@@ -8,7 +8,7 @@ Product Info Request and Trial Request - are examples of Segment track calls - h
 
 Each example consists of a form for user input, once the form's button is pressed a function is executed that sends the associated json to Segment.  The json is visible in the Segment debugger.
 
-![image](https://user-images.githubusercontent.com/104518622/197042569-d5f12002-c0d0-478f-a94c-7653af1a3b7b.png)
+![image](https://user-images.githubusercontent.com/104518622/197042963-9a66b1ad-4773-4f52-aee3-4f2c7d5963db.png)
 
 
 
